@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+h1{
+    font-style: inherit;
+    color: blue;
+}
+p{
+    height: 1500px;
+    width: 100px;
+    color: blueviolet;
+
+}
